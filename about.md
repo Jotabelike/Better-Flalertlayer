@@ -1,5 +1,7 @@
 # Better FlalertLayer
 
- This mod improves the FlalertLayers by introducing a custom-designed interface. It enhances the visual appearance with a more modern and polished style, making alerts feel cleaner and more appealing.
+ This mod enhances FlalertLayers by introducing a custom interface design. It improves the visual appearance with a more modern and polished style, making alerts clearer and more appealing.
 
-The redesign focuses on better aesthetics and user experience while maintaining the original functionality, seamlessly integrating with the game.
+The redesign focuses on improved aesthetics and user experience, maintaining the original functionality and seamlessly integrating with the game by replacing the previous design with a new and more refined one.
+
+Logo By CherrywCode

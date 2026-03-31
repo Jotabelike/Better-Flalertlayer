@@ -8,7 +8,7 @@
 	},
 	"id": "xjotabelikex.betterflaalertlayer",
 	"name": "Better FlalertLayer",
-	"version": "v1.0.4",
+	"version": "v1.0.5",
 	"tags": [
 		"interface"
 	],
@@ -16,7 +16,7 @@
 		"community": "https://discord.gg/vEPWBuFEn5"
 	},
 	"developer": "XJotaBeLikeX",
-	"description": "improves the information interface",
+	"description": "Improve your FlalertLayers with a refreshed and newer interface",
 	"dependencies": {
 		"geode.node-ids": ">=v1.22.0"
 	}
