@@ -3,14 +3,6 @@
 
 using namespace geode::prelude;
 
-template <typename T, typename U>
-T exact_cast(U* obj) {
-    if (obj && typeid(*obj) == typeid(std::remove_pointer_t<T>)) {
-        return static_cast<T>(obj);
-    }
-    return nullptr;
-}
-
 class $modify(CleanAlerts, FLAlertLayer) {
     void show() {
         FLAlertLayer::show();
