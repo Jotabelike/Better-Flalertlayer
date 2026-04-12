@@ -21,6 +21,6 @@
 		"geode.node-ids": ">=v1.22.0"
 	},
 	"incompatibilities": {
-		"timestepyt.deltarune_textboxes": "*"
+		"timestepyt.deltarune_textboxes": ">=v1.0.0"
 	}
 }
